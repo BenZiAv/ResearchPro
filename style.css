@@ -1,0 +1,25 @@
+/*----------- Welcome ----------*/
+
+.navbar{
+    border-bottom: 1px solid #000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-size: 20px;
+    width:80%;
+    background-color: blue;
+    display: flex;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 30px;
+    line-height: 3rem;
+    color: blue;
+    text-align: center;
+}
+h3{
+    line-height: 3rem;
+    text-align: center;
+}
