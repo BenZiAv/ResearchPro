@@ -11,9 +11,9 @@
   </head>
   <div class="navbar">
     <ul>
-        <a herf="./welcome.php" > Welcome </a>
-        <a herf="./researchers.php" > Researchers </a>
-        <a herf="./research.php" > Research </a>
+        <li><a herf="./welcome.php" > Welcome </a></li>
+        <li><a herf="./researchers.php" > Researchers </a></li>
+        <li><a herf="./research.php" > Research </a></li>
     </ul>
   </div>
   <br/> <br/> <br/> <br/> 

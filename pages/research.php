@@ -1,7 +1,7 @@
 <?php include './header.php'; ?>
 
 <body>
-  <h1> Welcome </h1><br>
-  <h3> choose what to see </h3>
+  <h1> Researchers </h1><br>
+  
 </body>
 </html>
