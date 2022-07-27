@@ -5,15 +5,15 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width", initial-scale=1.0">
-    <link href="../style/style.css" rel="stylesheet" type="text/css" >
+    <link href="../style/style.css" rel="stylesheet" >
     
     <title> ResearchPro </title>
   </head>
   <div class="navbar">
-    <ul>
-        <li><a herf="./welcome.php" > Welcome </a></li>
-        <li><a herf="./researchers.php" > Researchers </a></li>
-        <li><a herf="./research.php" > Research </a></li>
-    </ul>
+  <nav>
+    <a href="./researchers.php">Researcher</a> |
+    <a href="./research.php">Research</a> |
+    <a href="./welcome.php">Welcome</a> |
+  </nav>  
   </div>
   <br/> <br/> <br/> <br/> 

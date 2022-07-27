@@ -1,7 +1,7 @@
 <?php include './header.php'; ?>
 
 <body>
-  <h1> Researchers </h1><br>
+  <h1> Research list </h1><br>
   
 </body>
 </html>

@@ -1,4 +1,4 @@
-<?php include './researchers.php'; ?>
+<?php include './header.php'; ?>
 
 <body>
   <h1> Researchers list </h1><br>
